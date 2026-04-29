@@ -9,6 +9,7 @@ Beim Aufruf erscheint ein Browser-Login-Dialog (Benutzername + Passwort).
 | ------------- | ------------------- |
 | `jonas`       | Jonas Stracke       |
 | `mschuckert`  | Michael Schuckert   |
+| `umazura`     | Uwe Mazura          |
 
 > Passwörter werden ausschließlich als bcrypt-Hashes auf dem Server gespeichert
 > (`/etc/nginx/.htpasswd-epr`, Modus `640`, Eigentümer `root:www-data`).
